@@ -18,7 +18,7 @@ header {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 8px 32px 24px;
+    padding: 8px 32px 36px;
 }
 
 ul {
@@ -40,7 +40,7 @@ li {
    
 }
 
-.text {
+.mtext {
     max-width: 400px;
 }
 
@@ -75,9 +75,20 @@ img {
     display: flex;
     text-align: center;
     justify-content: center;
-    gap: 52px;
+    gap: 56px;
 }
 
 .title {
     text-align: center;
 }
+
+.text {
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+
+.destination {
+    border: 4px solid black;
+}
+
