@@ -121,6 +121,7 @@ img {
     padding: 8px 72px;
     border-radius: 8px;
     align-items: center;
+    gap: 36px;
 
 }
 .trip {
@@ -132,11 +133,20 @@ img {
     background-color: #3882f6;
     border: 2px solid white;
     border-radius: 6px;
-    padding: 4px 16px;
+    padding: 4px 24px;
 }
 .newsletter {
     margin-top: 0px;
 }
 .book {
     margin-bottom: 2px;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    background-color: #1F2937;
+    margin: 0;
+    padding: 16px;
+    font-weight: 600;
 }
