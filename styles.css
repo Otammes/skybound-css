@@ -70,3 +70,14 @@ li {
 img {
     border-radius: 8px;
 }
+
+.container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 52px;
+}
+
+.title {
+    text-align: center;
+}
