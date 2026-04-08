@@ -105,3 +105,38 @@ img {
     max-width: 520px;
     font-size: 18px;
 }
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 52px 0px;
+    
+}
+
+.banner {
+    background-color: #3882f6;
+    max-width: 1000px;
+    display: flex;
+    padding: 8px 72px;
+    border-radius: 8px;
+    align-items: center;
+
+}
+.trip {
+    color: white;
+    padding: 12px 36px;
+}
+.sign-up button {
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 4px 16px;
+}
+.newsletter {
+    margin-top: 0px;
+}
+.book {
+    margin-bottom: 2px;
+}
